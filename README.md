@@ -70,20 +70,6 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Y5bDg4YjN2ZmI4aTZvcnN2OG
 
 <br>
 
-## 📈 GitHub Statistics
-
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Raj-15042006&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raj-15042006&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Raj-15042006&theme=tokyonight"/>
-</p>
-
-<br>
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
